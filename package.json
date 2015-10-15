@@ -1,0 +1,29 @@
+{
+  "name": "webpconv",
+  "version": "1.0.0",
+  "description": "a nodejs module to convert webp image to other format and vice versa.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:leim/webpconv.git"
+  },
+  "keywords": [
+    "webpconv",
+    "converter",
+    "webp",
+    "cwebp",
+    "dwebp"
+  ],
+  "author": {
+    "name": "leim"
+  },
+  "license": "MIT",
+  "homepage": "",
+  "maintainers": [
+    {
+      "name": "leim",
+      "email": "test@test.com"
+    }
+  ],
+  "directories": {}
+}
