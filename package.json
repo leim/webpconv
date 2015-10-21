@@ -1,6 +1,6 @@
 {
   "name": "webpconv",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "a nodejs module to convert webp image to other format and vice versa.",
   "main": "index.js",
   "repository": {
